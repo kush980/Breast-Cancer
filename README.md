@@ -4,7 +4,7 @@ The project predicts whether the person has malign cancer or benign cancer. As t
 ## OUR TASK : 
 As the dataset already contains the person who has breast(catogaries) cancer , our task is to divide them in subcatogaries that is whether they going through benign breast cancer or malign breast cancer.
 
-## Solution 
+## Solution :
 As clearly we can see this is a problem of classification . We have used the most basic model of classification to train our dataset i.e. **Logisitic Regression** and the results we obtained were quite precise , **Accuracy** is calculated with **K-Fold Cross Validation** method and it came out to be 96.70% and the standard deviation was 1.96%.
 
 ### Hope you like it....!!!!!
